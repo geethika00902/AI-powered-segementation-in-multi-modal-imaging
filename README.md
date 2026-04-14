@@ -124,6 +124,6 @@ python src/predict.py
 
 ## 👩‍💻 Author
 
-Your Name
+Avuthu Geethika
 
 ---
